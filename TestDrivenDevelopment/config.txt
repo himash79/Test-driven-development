@@ -1,0 +1,9 @@
+01) TDD stands for Test Driven Development.
+02) Use for test the business logic.
+03) Advantages : 
+	01) Code quality.
+	02) Code coverage.
+	03) TDD had own life-cycle name is RED GREEN REFACTOR.
+		01) RED - write test case for test case fail.
+		02) GREEN - pass the test case.
+		03) REFACTOR - improve the code.
